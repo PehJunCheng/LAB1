@@ -40,7 +40,7 @@ Our website has a few features:
 
 * Sign Up  
 
-* Manage Books(Reservation and Extension)  
+* Manage Books (Reservation and Extension)  
 
 * Search Bar  
 
@@ -52,10 +52,13 @@ Our python code has a few functions:
 
 * Check for outstanding fees  
 
-* Dispense books  
+* Collect fees from users through RFID Reader  
+
+* Dispense books through Servo Motor  
 
 
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
