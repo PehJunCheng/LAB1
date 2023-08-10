@@ -36,22 +36,25 @@ This is the list of libraries and languages that we used in our project.
 
 ### Website
 
-Our website has a few features:
+Our website has a few features:  
+
 *Log In  
 
-*Sign Up 
-*Manage Books(Reservation and Extension) 
-*Search Bar 
+*Sign Up  
 
+*Manage Books(Reservation and Extension)  
+
+*Search Bar  
 
 ### Code
 
-Our python code has a few functions:
-*Barcode scanner
-*Check for outstanding fees
-*Dispense books
+Our python code has a few functions:  
 
+*Barcode scanner  
 
+*Check for outstanding fees  
+
+*Dispense books  
 
 
 
