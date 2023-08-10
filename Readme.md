@@ -8,7 +8,7 @@ The Library Book Reservation and Collection System aims to enhance book borrowin
 
 ### Dependencies
 
-This is the list of libraries and languages that we used in our project. 
+This is the list languages that we used in our project. 
 
 * Languages
 
@@ -19,6 +19,7 @@ This is the list of libraries and languages that we used in our project.
 
 
 ### Installation of Libraries
+This is the libraries that we used and how to install them.
 
 * Pyzbar
 ```
