@@ -12,13 +12,10 @@ This is the list of libraries and languages that we used in our project.
 
 * Languages
 
- 1. Python
-
- 2. Html
-
- 3. JavaScript
-
- 4. Css
+  1. Python
+  2. Html
+  3. JavaScript
+  4. Css
 
 
 ### Installation of Libraries
