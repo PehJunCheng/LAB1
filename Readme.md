@@ -10,7 +10,7 @@ The Library Book Reservation and Collection System aims to enhance book borrowin
 
 This is the list of libraries and languages that we used in our project. 
 
-*Languages
+* Languages
 
 1. Python
 
@@ -23,11 +23,11 @@ This is the list of libraries and languages that we used in our project.
 
 ### Installation of Libraries
 
-*Pyzbar
+* Pyzbar
 ```
 
 ```
-*OpenCV
+* OpenCV
 ```
 
 ```
@@ -38,23 +38,23 @@ This is the list of libraries and languages that we used in our project.
 
 Our website has a few features:  
 
-*Log In  
+* Log In  
 
-*Sign Up  
+* Sign Up  
 
-*Manage Books(Reservation and Extension)  
+* Manage Books(Reservation and Extension)  
 
-*Search Bar  
+* Search Bar  
 
 ### Code
 
 Our python code has a few functions:  
 
-*Barcode scanner  
+* Barcode scanner  
 
-*Check for outstanding fees  
+* Check for outstanding fees  
 
-*Dispense books  
+* Dispense books  
 
 
 
