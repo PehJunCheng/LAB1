@@ -37,14 +37,10 @@ This is the list of libraries and languages that we used in our project.
 ### Website
 
 Our website has a few features:
-
-*Log In
-
-*Sign Up
-
-*Manage Books(Reservation and Extension)
-
-*Search Bar
+*Log In 
+*Sign Up 
+*Manage Books(Reservation and Extension) 
+*Search Bar 
 
 
 ### Code
