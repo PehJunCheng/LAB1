@@ -1,7 +1,6 @@
 # Library Book Reservation and Collection System
 
 ## Project Description
-<a href="doc:introduction" target="_blank">Introduction</a>
 
 <a href="https://www.google.com/" target="_blank">Google</a>
 
